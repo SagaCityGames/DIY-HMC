@@ -1,6 +1,6 @@
 # DIY Head-Mounted Camera (HMC) Solution
 
-Do-it-yourself head-mounted camera - an inexpensive solution for a facial animation capture rig.
+Do-it-yourself head-mounted camera - an inexpensive, 3d-printed facial animation capture rig.
 
 ![My HMC Concept 01 v1](res/mockup-v1.png)
 
