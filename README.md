@@ -4,11 +4,11 @@ Do-it-yourself head-mounted camera - an inexpensive, 3d-printed facial animation
 
 ![My HMC Concept 01 v1](res/mockup-v1.png)
 
-![My HMC Prototype v1](res/prototype-v1.jpg)
+![My HMC Prototype v1](res/prototype-v1.png)
 
-![My HMC Prototype v2 01](res/prototype-v2-01.jpg)
+![My HMC Prototype v2 01](res/prototype-v2-01.png)
 
-![My HMC Prototype v2 02](res/prototype-v2-02.jpg)
+![My HMC Prototype v2 02](res/prototype-v2-02.png)
 
 ## Hardware
 
