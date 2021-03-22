@@ -4,7 +4,11 @@ Do-it-yourself head-mounted camera - an inexpensive, 3d-printed facial animation
 
 ![My HMC Concept 01 v1](res/mockup-v1.png)
 
+### v1
+
 ![My HMC Prototype v1](res/prototype-v1.png)
+
+### v2
 
 ![My HMC Prototype v2 01](res/prototype-v2-01.png)
 
@@ -16,7 +20,7 @@ Do-it-yourself head-mounted camera - an inexpensive, 3d-printed facial animation
 
 * 1/4" mount mobile phone holder (I took one from a mobile phone tripod)
 
-* 3D-printed [NVG mount](https://www.thingiverse.com/thing:2799476) (printed at 100% infill)
+* 3D-printed [NVG mount](https://www.thingiverse.com/thing:2799476)
 
 * 3D-printed [arms](https://www.thingiverse.com/thing:2194278)
 
