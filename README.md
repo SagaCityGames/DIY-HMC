@@ -46,7 +46,7 @@ Do-it-yourself head-mounted camera - an inexpensive, 3d-printed facial animation
 
 ### Tips
 
-* A [counterweight pouch](https://www.hardheadveterans.com/blogs/reviews/combat-helmet-setup-visual-guide-for-military ) attached to the bottom back of the helmet can be used to reduce head strain.
+* A counterweight pouch attached to the bottom back of the helmet can be used to reduce head strain.
 
 ## References
 
