@@ -1,4 +1,4 @@
-# DIY Head-Mounted Camera (HMC) Solution
+# DIY Head-Mounted Camera (HMC)
 
 Do-it-yourself head-mounted camera - an inexpensive, 3d-printed facial animation capture rig.
 
@@ -14,35 +14,21 @@ Do-it-yourself head-mounted camera - an inexpensive, 3d-printed facial animation
 
 * Tactical helmet with NVG shroud, adult-sized (~$40)
 
-* iPhone with ARKit functionality (I'm using an iPhone X)
+* 1/4" mount mobile phone holder (I took one from a mobile phone tripod)
 
-* 1/4" mount mobile phone holder
+* 3D-printed [NVG mount](https://www.thingiverse.com/thing:2799476)
 
-* OPTION 1: 3d printed NVG-mounted arm (as opposed to a "selfie stick")
+* 3D-printed [arms](https://www.thingiverse.com/thing:2194278)
 
-* OPTION 2: bendable selfie stick, possibly just duct taped to top of helmet
+  * arm 90 straight (lengthened) - x2
 
-### Parts List for 3d-printed NVG-mounted arm
-
-> print 3d-printed parts in black PLA
+  * Arm Axis Changer (drilled 1/4" hole after printing)
 
 * M5 Nut (metal)
 
 * M5x25 Bolt (metal)
 
-* 3DPRINT [NVG mount](https://www.thingiverse.com/thing:2799476)
-
-* 3DPRINT [just the arm of this](https://www.thingiverse.com/thing:2194278)
-
-  * arm 90 straight - x2
-
-  * knob for nut
-
-  * mount camera screw
-
-  * mount camera v5
-
-  * mount holder single
+* iPhone with ARKit (I'm using an iPhone X)
 
 ### Tips
 
