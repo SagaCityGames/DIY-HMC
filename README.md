@@ -1,8 +1,8 @@
 # DIY Head-Mounted Camera (HMC)
 
-Do-it-yourself head-mounted camera - an inexpensive, 3d-printed facial motion capture rig.
+Do-it-yourself head-mounted camera - an inexpensive, 3d-printed facial motion capture rig. This is intended to hold a mobile phone but could be adapted for other situations.
 
-![My HMC Concept 01 v1](res/mockup-v1.png)
+![My HMC Concept v1](res/mockup-v1.png)
 
 ### v1
 
@@ -28,11 +28,9 @@ Do-it-yourself head-mounted camera - an inexpensive, 3d-printed facial motion ca
 
   * Arm Axis Changer (drilled 1/4" hole after printing)
 
-* M5 Nut (metal)
+* M5 Nut (metal) - x3
 
-* M5x25 Bolt (metal)
-
-* iPhone with ARKit (I'm using an iPhone X)
+* M5x25 Bolt (metal) - x3
 
 ### Tips
 
