@@ -2,17 +2,21 @@
 
 Do-it-yourself head-mounted camera - an inexpensive, 3d-printed facial motion capture rig. This is intended to hold a mobile phone but could be adapted for other situations.
 
-![My HMC Concept v1](res/mockup-v1.png)
+![DIY HMC Concept v1](res/mockup-v1.png)
 
-### v1
+## v1
 
-![My HMC Prototype v1](res/prototype-v1.png)
+![DIY HMC Prototype v1](res/prototype-v1.png)
 
-### v2
+![DIY HMC v2 Parts](res/prototype-v1-parts.png)
 
-![My HMC Prototype v2 01](res/prototype-v2-01.png)
+## v2
 
-![My HMC Prototype v2 02](res/prototype-v2-02.png)
+![DIY HMC Prototype v2 01](res/prototype-v2-01.png)
+
+![DIY HMC Prototype v2 02](res/prototype-v2-02.png)
+
+![DIY HMC v2 Parts](res/prototype-v2-parts.png)
 
 ## Hardware
 
