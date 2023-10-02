@@ -4,13 +4,7 @@ Do-it-yourself head-mounted camera - an inexpensive, 3d-printed facial motion ca
 
 ![DIY HMC Concept v1](res/mockup-v1.png)
 
-## v1
-
-![DIY HMC Prototype v1](res/prototype-v1.png)
-
-![DIY HMC v2 Parts](res/prototype-v1-parts.png)
-
-## v2
+## v2 (current version)
 
 ![DIY HMC Prototype v2 01](res/prototype-v2-01.png)
 
@@ -38,10 +32,16 @@ Do-it-yourself head-mounted camera - an inexpensive, 3d-printed facial motion ca
 
 ### Tips
 
-* A counterweight pouch attached to the bottom back of the helmet can be used to reduce head strain.
+* A counterweight pouch attached to the bottom back of the helmet could be used to reduce head strain.
 
 ## References
 
 ![Their HMC 1](ref/their-hmc-01.jpg)
 
 ![Their HMC 2](ref/their-hmc-02.jpg)
+
+## v1 (DEPRECATED)
+
+![DIY HMC Prototype v1](res/prototype-v1.png)
+
+![DIY HMC v2 Parts](res/prototype-v1-parts.png)
